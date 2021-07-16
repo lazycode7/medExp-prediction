@@ -1,4 +1,14 @@
 # medExp-prediction
+
+ ## Problem Statement
+  * Predict future medical expenses of patients based on given parameters
+  * Factors include :
+    * Age
+    * Gender
+    * Body Mass Index *(BMI)*
+    * Inhabitant Region
+    * Smoking Behaviour
+ 
  ## Medical Insurance Prediction
   Model for predicting future Medical Insurance expenses
   
