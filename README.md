@@ -1,6 +1,8 @@
 # medExp-prediction
- ## Medical Expenses Prediction
-   Model for predicting future Medical Insurance expenses
-   - *Analysis and Cleaning of Data*
-   - *Models trained : **OLS (Linear)**, **Random Forest**, **Gradient Boosting Regressions***
-   Model Comparison by *R2 Value* and *RMSE Score*
+ ## Medical Insurance Prediction
+  Model for predicting future Medical Insurance expenses
+  
+  - *Cleaning and Analysis of Data*
+  - *Models trained :* **Linear** *(OLS),* **Random Forest** *and* **Gradient Boosting Regressions**
+  
+  Model Comparison by **R2 Value** and **RMSE Score**
