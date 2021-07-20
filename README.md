@@ -1,7 +1,7 @@
 # medExp-prediction
 
  ## Problem Statement
-  * Predict future medical expenses of patients based on given parameters
+  * Predict future medical expenses of patients considering various parameters.
   * Factors include :
     * Age
     * Gender
